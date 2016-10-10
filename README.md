@@ -19,4 +19,4 @@ Running the consol client is not necessary, but help to track the communication.
 
 Under Solution propertis it is possible to run only the server
 
-![alt tag](https://postimg.org/image/b83r9lyyj/)
+![alt tag](https://s17.postimg.org/rvv9c3tq7/image.jpg)
