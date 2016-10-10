@@ -28,7 +28,7 @@ Under solution properties it is possible to run only the server, changing to sin
 
 # Using the app
 
-Now we are ready to start the android app. **tapping** and realising the morse button will send short tone, and **longclicking** will send long morse signal.
+Now we are ready to build and run the android app. **Tapping** and realising the morse button will send short tone, and **longclicking** will send long morse signal.
 
 # Datebase location
 
