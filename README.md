@@ -30,6 +30,8 @@ Under solution properties it is possible to run only the server, changing to sin
 
 Now we are ready to start the android app. **tapping** and realising the morse button will send short tone, and **longclicking** will send long morse signal.
 
+# Datebase location
+
 The server store every messages to a predefined sqlite datebase wich can be founded beside the server (default at: **\WebsocketServer\bin\Debug\Morsedb.sqlite**
 
 # Publishing
