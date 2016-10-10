@@ -17,6 +17,6 @@ If the IP addres is correct, You can build+run the server, and the app.
 
 Running the consol client is not necessary, but help to track the communication.
 
-Under Solution propertis it is possible to run only the server
+Under Solution propertis it is possible to run only the server, then we should choose the single startup project 
 
 ![alt tag](https://s17.postimg.org/rvv9c3tq7/image.jpg)
