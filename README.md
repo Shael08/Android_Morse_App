@@ -13,6 +13,8 @@ client.Start();
 ```
 IP addres can be checked at the command prompt, whith the `ipconfig` command.
 
+![alt tag](https://s22.postimg.org/k4dr9ht8x/image.jpg)
+
 If the IP addres is correct, You can build+run the server, and the app.
 
 Running the consol client is not necessary, but help to track the communication.
