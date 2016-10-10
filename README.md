@@ -26,3 +26,5 @@ Under solution properties it is possible to run only the server, changing to sin
 Now we are ready to start the android app. **tapping** and realising the morse button will send short tone, and **longclicking** will send long morse signal.
 
 The server store every messages to a predefined sqlite datebase wich can be founded beside the server (default at: **\WebsocketServer\bin\Debug\Morsedb.sqlite**
+
+Here is a step by step guide, how to [Publish](https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/publishing_an_application/)  the application 
