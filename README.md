@@ -22,3 +22,7 @@ Running the consol client is not necessary, but help to track the communication.
 Under Solution propertis it is possible to run only the server, then we should choose the single startup project 
 
 ![alt tag](https://s17.postimg.org/rvv9c3tq7/image.jpg)
+
+Now we are ready to start the android app. **tapping** and realising the morse button will send short tone, and **longclicking** will send long morse signal.
+
+The server store every messages to a predefined sqlite datebase wich can be founded beside the server (default at: *\WebsocketServer\WebsocketServer\bin\Debug\Morsedb.sqlite*
