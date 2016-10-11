@@ -13,7 +13,7 @@ Client client = new Client();
 client.Setup("ws://192.168.0.14:8001", "basic", WebSocketVersion.Rfc6455);
 client.Start();
 ```
-Running the server informs us about the IP and the port or can be checked at the command prompt, with the `ipconfig` command.
+Running the server informs us about the IP and the port or can be checked in the command prompt, with the `ipconfig` command.
 
 ![alt tag](https://s22.postimg.org/k4dr9ht8x/image.jpg)
 
