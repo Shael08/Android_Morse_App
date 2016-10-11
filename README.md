@@ -23,7 +23,7 @@ If the IP address is correct, you can build+run the server, and the app.
 
 Running the console client is not necessary, but help to track the communication.
 
-Under solution properties it is possible to run only the server, changing to single startup project 
+Under `solution` properties it is possible to run only the server, changing to single startup project 
 
 ![alt tag](https://s17.postimg.org/rvv9c3tq7/image.jpg)
 
