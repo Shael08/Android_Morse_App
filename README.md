@@ -33,7 +33,7 @@ Now we are ready to build and run the android app. **Tapping** and realising the
 
 # Database location
 
-The server store every messages in a predefined sqlite database which can be found beside the server (default at: **\WebsocketServer\bin\Debug\Morsedb.sqlite**
+The server stores every message in a predefined sqlite database which can be found beside the server (default at: **\WebsocketServer\bin\Debug\Morsedb.sqlite**) 
 
 # Publishing
 
