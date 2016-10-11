@@ -16,7 +16,7 @@ Running the server inform us about the IP and the port or can be checked at the 
 
 ![alt tag](https://s22.postimg.org/k4dr9ht8x/image.jpg)
 
-If the IP addres is correct, You can build+run the server, and the app.
+If the IP address is correct, you can build+run the server, and the app.
 
 # Disable the console client
 
@@ -32,7 +32,7 @@ Now we are ready to build and run the android app. **Tapping** and realising the
 
 # Datebase location
 
-The server store every messages to a predefined sqlite datebase wich can be founded beside the server (default at: **\WebsocketServer\bin\Debug\Morsedb.sqlite**
+The server store every messages to a predefined sqlite database wich can be founded beside the server (default at: **\WebsocketServer\bin\Debug\Morsedb.sqlite**
 
 # Publishing
 
