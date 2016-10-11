@@ -1,11 +1,12 @@
 # Android Morse Application with websocket
 
-This is a simple android app, which communicate with the server and send every message to the other clients.
+This is a simple android app, which communicates with the server and send every message to the other clients.
 
 # Setting up the clients
-First of all, you should change the IP address in the:
+First of all, change the ip address in the following files:
 
-`WebscoketServer/ConsolClient/Program.cs` and the `Morse_app/MainActivity.cs` files
+`WebscoketServer/ConsolClient/Program.cs` and 
+`Morse_app/MainActivity.cs`
 
 ```
 Client client = new Client();
