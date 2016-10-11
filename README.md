@@ -1,6 +1,6 @@
 # Android Morse Application with websocket
 
-This is a simple android app, wich communicate a server and send every message to the other clients.
+This is a simple android app, which communicate with the server and send every message to the other clients.
 
 # Setting up the clients
 First of all, you should change the IP address in the:
